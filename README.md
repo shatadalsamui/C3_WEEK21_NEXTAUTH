@@ -75,4 +75,3 @@ To add more providers:
 1. Import the provider from `next-auth/providers`
 2. Add it to the providers array in `[...nextauth]/route.ts`
 3. Configure the required environment variables
-
